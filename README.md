@@ -34,7 +34,7 @@ https://www.todaybing.com/
 ```json
 {
     "status": 200,
-    "msg":'',
+    "msg":'ok',
     "data": {
         "date": "20210101",
         
@@ -67,7 +67,7 @@ https://www.todaybing.com/
 
 | Coder   | 创建时间 | 更新时间 |联系方式 |
 | :---     | :---| :--- | :--- |
-| carozhu  | 2021.1.15 |2021.1.15  |admin@todaybing.com  |
+| todaybing  | 2021.1.15 |2021.1.15  |admin@todaybing.com  |
 
 
 

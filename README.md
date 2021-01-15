@@ -34,7 +34,7 @@ https://www.todaybing.com/
 ```json
 {
     "status": 200,
-    "msg":'ok',
+    "msg":"ok",
     "data": {
         "date": "20210101",
         

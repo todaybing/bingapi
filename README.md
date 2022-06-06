@@ -19,13 +19,13 @@ https://www.todaybing.com/api/v2
 
 | 请求参数 | 类型 | 必填 | 参数说明 | 示例 |
 | :--- | :--- | :--- | :--- | :--- |
-| cn | String | true | 1:返回必应壁纸中国区当日高清壁纸 |[1](https://www.todaybing.com/api/today/cn) |
-| de | String | true | 1:返回必应壁纸德国区当日高清壁纸 |
-| fr | String | true | 1:返回必应壁纸法国区当日高清壁纸 |
-| in | String | true | 1:返回必应壁纸印度区当日高清壁纸 |
-| jp | String | true | 1:返回必应壁纸日本区当日高清壁纸 |
-| gb | String | true | 1:返回必应壁纸英国区当日高清壁纸 |
-| en | String | true | 1:返回必应壁纸国际区当日高清壁纸 |
+| cn | String | true | 1:返回必应壁纸中国区当日高清壁纸 |[https://www.todaybing.com/api/today/cn](https://www.todaybing.com/api/today/cn) |
+| de | String | true | 1:返回必应壁纸德国区当日高清壁纸 |[https://www.todaybing.com/api/today/de](https://www.todaybing.com/api/today/de) |
+| fr | String | true | 1:返回必应壁纸法国区当日高清壁纸 |[https://www.todaybing.com/api/today/fr](https://www.todaybing.com/api/today/fr) |
+| in | String | true | 1:返回必应壁纸印度区当日高清壁纸 |[https://www.todaybing.com/api/today/in](https://www.todaybing.com/api/today/in) |
+| jp | String | true | 1:返回必应壁纸日本区当日高清壁纸 |[https://www.todaybing.com/api/today/jp](https://www.todaybing.com/api/today/jp) |
+| gb | String | true | 1:返回必应壁纸英国区当日高清壁纸 |[https://www.todaybing.com/api/today/gb](https://www.todaybing.com/api/today/gb) |
+| en | String | true | 1:返回必应壁纸国际区当日高清壁纸 |[https://www.todaybing.com/api/today/en](https://www.todaybing.com/api/today/en) |
 
 
 
